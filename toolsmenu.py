@@ -50,10 +50,9 @@ def so () :
        print ("19)ipcs")
        print ("20)KaliLinux")
     elif loop == '2' :
-         print ("Creator : MASTERX ")
-         print ("Channel Youtube : MASTER X ")
+         print ("Creator : mkdirlove ")
          print ("Script Version : 1.1 ")
-         print ("My Github Repo : https://github.com/seifsherifssss")
+         print ("My Github Repo : https://github.com/mkdirlove")
     else :
       loop3 = input ("Are You Sure y/n >>>   ")
       if loop3 == 'y' :
