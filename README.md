@@ -1,9 +1,7 @@
 # MasterMarket
 A Simple Market To Install best 20 Hacking Scripts
 
-Script Made by MASTERX
- 
-Youtube Channel MASTER X
+CREDITS TO MASTERX
 
 Version 1.1
 
